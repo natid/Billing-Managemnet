@@ -1,0 +1,6 @@
+OUR_BANK_ACCOUNT = '123456789'
+CREDIT = 'Credit'
+DEBIT = 'Debit'
+FAIL = 'Fail'
+SUCCESS = 'Success'
+IN_PROCESS = 'In Process'
